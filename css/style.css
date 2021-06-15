@@ -1364,7 +1364,7 @@ sup {
 }
 
 #fullpage .section:not(#section0) .main-content h1, #fullpage .section:not(#section0) .main-content h2, #fullpage .section:not(#section0) .main-content h3, #fullpage .section:not(#section0) .main-content h4, #fullpage .section:not(#section0) .main-content h5, #fullpage .section:not(#section0) .main-content h6, #fullpage .section:not(#section0) .main-content p {
-  color: #f57e20;
+  color: #274BA0;
   -webkit-box-flex: 1;
           flex: auto;
   align-self: flex-start;
